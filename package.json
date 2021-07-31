@@ -1,0 +1,11 @@
+{
+  "name": "lijiayuan-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zch233/lijiayuan-cypress.git",
+  "author": "zhangchao <529743595@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.1.0"
+  }
+}
